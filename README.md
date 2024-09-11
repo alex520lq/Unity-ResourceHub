@@ -6,3 +6,7 @@ https://github.com/RyanNielson/awesome-unity
 
 服务器
 https://github.com/qq362946/Fantasy
+
+编辑器
+RapidGUI
+https://github.com/fuqunaga/RapidGUI
