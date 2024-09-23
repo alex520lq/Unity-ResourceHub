@@ -10,3 +10,6 @@ https://github.com/qq362946/Fantasy
 编辑器
 RapidGUI
 https://github.com/fuqunaga/RapidGUI
+
+万人同屏
+[ECSAnimation](https://github.com/MrLiuYX/ECSAnimation)
