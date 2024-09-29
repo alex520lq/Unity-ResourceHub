@@ -19,3 +19,7 @@ https://github.com/NetickNetworking/NetickForUnity
 
 C#网络库
 https://github.com/Molth/Riptide
+
+
+数字人相关
+https://github.com/YUANZHUO-BNU/metahuman_overview
