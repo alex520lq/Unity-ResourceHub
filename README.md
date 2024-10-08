@@ -12,6 +12,8 @@ https://github.com/qq362946/Fantasy
 编辑器
 https://github.com/fuqunaga/RapidGUI
 https://github.com/AnnulusGames/Alchemy
+缓动插件
+https://github.com/AnnulusGames/LitMotion
 
 万人同屏
 [ECSAnimation](https://github.com/MrLiuYX/ECSAnimation)
