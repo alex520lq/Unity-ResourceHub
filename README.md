@@ -49,4 +49,7 @@ https://github.com/playgameservices/play-games-plugin-for-unity
 虚拟摇杆:https://github.com/AnnulusGames/EnhancedOnScreenStick
 
 ## 着色器
-卡通渲染:https://assetstore.unity.com/packages/vfx/shaders/realtoon-pro-anime-toon-shader-65518
+卡通渲染:
+
+https://assetstore.unity.com/packages/vfx/shaders/realtoon-pro-anime-toon-shader-65518
+https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
