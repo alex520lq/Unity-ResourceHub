@@ -53,3 +53,5 @@ https://github.com/playgameservices/play-games-plugin-for-unity
 
 https://assetstore.unity.com/packages/vfx/shaders/realtoon-pro-anime-toon-shader-65518
 https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
+战争迷雾:
+https://assetstore.unity.com/packages/tools/particles-effects/fog-of-war-51344
