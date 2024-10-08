@@ -47,3 +47,6 @@ https://github.com/playgameservices/play-games-plugin-for-unity
 ### UGUI扩展
 进度条:https://github.com/AnnulusGames/UnityProgressBar
 虚拟摇杆:https://github.com/AnnulusGames/EnhancedOnScreenStick
+
+## 着色器
+卡通渲染:https://assetstore.unity.com/packages/vfx/shaders/realtoon-pro-anime-toon-shader-65518
