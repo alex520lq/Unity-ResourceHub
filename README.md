@@ -32,3 +32,5 @@ https://github.com/hadashiA/VContainer
 数字人相关
 https://github.com/YUANZHUO-BNU/metahuman_overview
 
+google play相关
+https://github.com/playgameservices/play-games-plugin-for-unity
