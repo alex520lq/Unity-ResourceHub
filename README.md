@@ -12,6 +12,7 @@ https://github.com/qq362946/Fantasy
 编辑器
 https://github.com/fuqunaga/RapidGUI
 https://github.com/AnnulusGames/Alchemy
+
 缓动插件
 https://github.com/AnnulusGames/LitMotion
 
@@ -25,5 +26,9 @@ C#网络库
 https://github.com/Molth/Riptide
 https://github.com/KumoKyaku/kcp
 
+依赖注入
+https://github.com/hadashiA/VContainer
+
 数字人相关
 https://github.com/YUANZHUO-BNU/metahuman_overview
+
