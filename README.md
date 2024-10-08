@@ -43,3 +43,6 @@ https://github.com/AnnulusGames/uPools
 
 ### google play相关
 https://github.com/playgameservices/play-games-plugin-for-unity
+
+### UGUI扩展
+进度条:https://github.com/AnnulusGames/UnityProgressBar
