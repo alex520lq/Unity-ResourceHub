@@ -33,6 +33,7 @@ https://github.com/hadashiA/VContainer
 https://github.com/YUANZHUO-BNU/metahuman_overview
 可观察集合
 https://github.com/Cysharp/ObservableCollections
-
+对象池库
+https://github.com/AnnulusGames/uPools
 google play相关
 https://github.com/playgameservices/play-games-plugin-for-unity
