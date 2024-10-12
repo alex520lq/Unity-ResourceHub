@@ -31,6 +31,7 @@ https://github.com/KumoKyaku/kcp
 
 ### 依赖注入
 https://github.com/hadashiA/VContainer
+https://github.com/modesttree/Zenject
 
 ### 数字人相关
 https://github.com/YUANZHUO-BNU/metahuman_overview
