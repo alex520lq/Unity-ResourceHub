@@ -66,3 +66,6 @@ https://github.com/Dreaming381/Latios-Framework
 
 节点编辑器
 https://github.com/alelievr/NodeGraphProcessor
+
+## 体素编辑器
+https://github.com/guillaumechereau/goxel
