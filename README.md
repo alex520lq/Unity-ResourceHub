@@ -57,9 +57,15 @@
 >* [Contra-Unity](https://github.com/dasishiqigaocaisheng/Contra-Unity) 魂得罗复刻
 >* [3DMoonRunner](https://github.com/XINCGer/3DMoonRunner) 3d酷跑
 >* [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) DOTS
+>* [合成大西瓜](https://github.com/9b9387/Watermelon)
 
 ### 节点编辑器
 >* [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)
 
 ### 体素编辑器
 >* [goxel](https://github.com/guillaumechereau/goxel)
+### 水相关
+>* [crest](https://github.com/wave-harmonic/crest)
+>* [NaughtyWaterBuoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
+>* [water](https://github.com/Parrot222/Unity-Water-Shaders)
+>* [fusionWater](https://github.com/nailuj05/FusionWater)
