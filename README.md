@@ -72,6 +72,9 @@
 >* [water](https://github.com/Parrot222/Unity-Water-Shaders)
 >* [fusionWater](https://github.com/nailuj05/FusionWater)
 
+### Shader
+>* [URPToonShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
+
 ### 技能相关
 >* [Stat](https://github.com/meredoth/Stat-System)
 
