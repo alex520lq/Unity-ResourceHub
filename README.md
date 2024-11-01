@@ -80,3 +80,6 @@
 
 ### 生成式AI
 >* [AI写Shader](https://github.com/keijiro/AIShader)
+
+### 逆向
+>* [Frida](https://github.com/kylesmile1103/Learn-Frida)
