@@ -72,5 +72,8 @@
 >* [water](https://github.com/Parrot222/Unity-Water-Shaders)
 >* [fusionWater](https://github.com/nailuj05/FusionWater)
 
+### 技能相关
+>* [Stat](https://github.com/meredoth/Stat-System)
+
 ### 生成式AI
 >* [AI写Shader](https://github.com/keijiro/AIShader)
