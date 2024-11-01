@@ -71,3 +71,6 @@
 >* [NaughtyWaterBuoyancy](https://github.com/dbrizov/NaughtyWaterBuoyancy)
 >* [water](https://github.com/Parrot222/Unity-Water-Shaders)
 >* [fusionWater](https://github.com/nailuj05/FusionWater)
+
+### 生成式AI
+>* [AI写Shader](https://github.com/keijiro/AIShader)
