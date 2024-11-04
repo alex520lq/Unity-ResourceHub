@@ -83,3 +83,6 @@
 
 ### 逆向
 >* [Frida](https://github.com/kylesmile1103/Learn-Frida)
+
+### C#语言学习
+>* [c#学习](https://github.com/YSGStudyHards/DotNetGuide)
