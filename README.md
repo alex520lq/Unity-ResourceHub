@@ -86,3 +86,6 @@
 
 ### C#语言学习
 >* [c#学习](https://github.com/YSGStudyHards/DotNetGuide)
+>
+### 声音
+>* [mp3转wav](https://github.com/3wz/Lame-For-Unity)
