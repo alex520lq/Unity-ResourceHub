@@ -12,6 +12,7 @@
 ### 编辑器
 >* [RapidGUI](https://github.com/fuqunaga/RapidGUI)
 >* [Alchemy](https://github.com/AnnulusGames/Alchemy)
+>* [搜索枚举](https://github.com/roboryantron/UnityEditorJunkie)
 
 ### 缓动插件
 >* [LitMotion](https://github.com/AnnulusGames/LitMotion)
