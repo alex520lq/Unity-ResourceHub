@@ -79,6 +79,7 @@
 
 ### 技能相关
 >* [Stat](https://github.com/meredoth/Stat-System)
+>* [Ability](https://github.com/No78Vino/gameplay-ability-system-for-unity)
 
 ### 生成式AI
 >* [AI写Shader](https://github.com/keijiro/AIShader)
