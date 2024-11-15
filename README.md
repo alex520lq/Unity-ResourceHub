@@ -27,7 +27,7 @@
 ### C#网络库
 >* [Riptide](https://github.com/Molth/Riptide)
 >* [kcp](https://github.com/KumoKyaku/kcp)
-
+>* [Hisocket](https://github.com/hiram3512/HiSocket)
 ### 依赖注入
 >* [VContainer](https://github.com/hadashiA/VContainer)
 >* [Zenject](https://github.com/modesttree/Zenject)
