@@ -31,6 +31,8 @@
 ### 依赖注入
 >* [VContainer](https://github.com/hadashiA/VContainer)
 >* [Zenject](https://github.com/modesttree/Zenject)
+>* [Binject](https://github.com/somedeveloper00/Binject)
+>* [reflex](https://github.com/gustavopsantos/Reflex)
 
 ### 数字人相关
 >* [metahuman_overview](https://github.com/YUANZHUO-BNU/metahuman_overview)
