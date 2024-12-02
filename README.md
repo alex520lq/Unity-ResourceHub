@@ -100,6 +100,7 @@
 >
 ### 声音
 >* [mp3转wav](https://github.com/3wz/Lame-For-Unity)
+>* [Audio](https://github.com/jackyyang09/Simple-Unity-Audio-Manager)
 
 ### 音视频
 >* [ffmpeg](https://github.com/arthenica/ffmpeg-kit)
