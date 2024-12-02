@@ -25,6 +25,9 @@
 ### 网络同步
 >* [NetickForUnity](https://github.com/NetickNetworking/NetickForUnity)
 
+### ECS
+>[Latios](https://github.com/Dreaming381/Latios-Framework）
+
 ### C#网络库
 >* [Riptide](https://github.com/Molth/Riptide)
 >* [kcp](https://github.com/KumoKyaku/kcp)
