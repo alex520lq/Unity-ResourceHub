@@ -35,6 +35,7 @@
 >* [Riptide](https://github.com/Molth/Riptide)
 >* [kcp](https://github.com/KumoKyaku/kcp)
 >* [Hisocket](https://github.com/hiram3512/HiSocket)
+
 ### 依赖注入
 >* [VContainer](https://github.com/hadashiA/VContainer)
 >* [Zenject](https://github.com/modesttree/Zenject)
@@ -49,6 +50,9 @@
 
 ### 对象池库
 >* [uPools](https://github.com/AnnulusGames/uPools)
+
+### 图片
+>* [图片分割](https://github.com/elringus/sprite-dicing)
 
 ### google play相关
 >* [play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity)
