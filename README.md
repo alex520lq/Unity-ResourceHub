@@ -9,7 +9,7 @@
 
 ### 原生支持
 >* [MobileSupport](https://github.com/CyberAgentGameEntertainment/UnityMobileSupport)
-
+>* [唯一ID](https://github.com/AlianBlank/BlankDeviceUniqueIdentifier)
 ### 服务器
 >* [Fantasy](https://github.com/qq362946/Fantasy) 
 
