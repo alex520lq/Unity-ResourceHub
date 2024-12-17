@@ -60,7 +60,7 @@
 ### UGUI扩展
 >* [UnityProgressBar](https://github.com/AnnulusGames/UnityProgressBar) 进度条
 >* [EnhancedOnScreenStick](https://github.com/AnnulusGames/EnhancedOnScreenStick) 虚拟摇杆
-
+>* [UITable](https://github.com/zhaozilong1988/UITableViewForUnity)
 ## 着色器
 >* [RealToon Pro](https://assetstore.unity.com/packages/vfx/shaders/realtoon-pro-anime-toon-shader-65518) 卡通渲染
 >* [Toony Colors Pro 2](https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105) 卡通渲染
