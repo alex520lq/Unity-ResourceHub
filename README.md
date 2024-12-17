@@ -105,6 +105,7 @@
 
 ### 生成式AI
 >* [AI写Shader](https://github.com/keijiro/AIShader)
+>* [文本到材质贴图](https://github.com/aniketrajnish/Text-To-Material-Unity)
 
 ### 逆向
 >* [Frida](https://github.com/kylesmile1103/Learn-Frida)
