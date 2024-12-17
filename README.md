@@ -53,6 +53,8 @@
 
 ### 对象池库
 >* [uPools](https://github.com/AnnulusGames/uPools)
+### 设计模式
+>*[Patterns](https://github.com/Habrador/Unity-Programming-Patterns)
 
 ### 图片
 >* [图片分割](https://github.com/elringus/sprite-dicing)
