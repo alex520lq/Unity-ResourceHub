@@ -61,7 +61,7 @@
 ### 图片
 >* [图片分割](https://github.com/elringus/sprite-dicing)
 >* [图片加载](https://github.com/IvanMurzak/Unity-ImageLoader)
-
+>* [Audio加载](https://github.com/IvanMurzak/Unity-AudioLoader)
 
 ### google play相关
 >* [play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity)
