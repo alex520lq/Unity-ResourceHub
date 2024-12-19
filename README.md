@@ -60,6 +60,8 @@
 
 ### 图片
 >* [图片分割](https://github.com/elringus/sprite-dicing)
+>* [图片加载](https://github.com/IvanMurzak/Unity-ImageLoader)
+
 
 ### google play相关
 >* [play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity)
@@ -122,3 +124,6 @@
 >
 ### 书
 >* [编程](https://github.com/mymmsc/books/tree/master)
+>
+### 其他
+[陀螺仪](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)
