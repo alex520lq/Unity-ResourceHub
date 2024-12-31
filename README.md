@@ -114,7 +114,7 @@
 
 ### C#语言学习
 >* [c#学习](https://github.com/YSGStudyHards/DotNetGuide)
->
+>* [Unity设计模式](https://github.com/QianMo/Unity-Design-Pattern)
 ### 声音
 >* [mp3转wav](https://github.com/3wz/Lame-For-Unity)
 >* [Audio](https://github.com/jackyyang09/Simple-Unity-Audio-Manager)
