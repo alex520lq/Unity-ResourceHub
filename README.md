@@ -40,7 +40,8 @@
 >* [Physics](https://github.com/Habrador/Ten-Minute-Physics-Unity)
 >* [几何计算,网格简化](https://github.com/Habrador/Computational-geometry)
 >* [碰撞体优化](https://github.com/aniketrajnish/Unity-Collider-Optimizer)
-
+>* [reactphysics3d](https://www.reactphysics3d.com/documentation/)
+>* [Box2D](https://github.com/erincatto/Box2D)
 ### 依赖注入
 >* [VContainer](https://github.com/hadashiA/VContainer)
 >* [Zenject](https://github.com/modesttree/Zenject)
