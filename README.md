@@ -101,7 +101,7 @@
 
 ### Shader
 >* [URPToonShader](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample)
-
+>*[NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 ### 技能相关
 >* [Stat](https://github.com/meredoth/Stat-System)
 >* [Ability](https://github.com/No78Vino/gameplay-ability-system-for-unity)
