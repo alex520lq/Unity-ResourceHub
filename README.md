@@ -7,6 +7,7 @@
 >* [Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)  
 >* [GameDev](https://github.com/crazyshader/GameDev)
 >* [Collection](https://github.com/michidk/Unity-Script-Collection)
+>* [TechLib](https://github.com/m969/GameAndUnity-TechLib)
 
 ### 原生支持
 >* [MobileSupport](https://github.com/CyberAgentGameEntertainment/UnityMobileSupport)
