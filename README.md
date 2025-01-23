@@ -100,7 +100,7 @@
 ### 节点编辑器
 >* [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)
 >* [技能编辑器](https://github.com/NoBugCn/ActionEditor)
-
+>* [文件夹折叠](https://github.com/liyingsong99/FolderTag)
 ### 体素编辑器
 >* [goxel](https://github.com/guillaumechereau/goxel)
 ### 水相关
