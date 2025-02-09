@@ -24,7 +24,7 @@
 >* [Alchemy](https://github.com/AnnulusGames/Alchemy)
 >* [搜索枚举](https://github.com/roboryantron/UnityEditorJunkie)
 >* [SaintsField](https://github.com/TylerTemp/SaintsField)
-
+>*[按钮](https://github.com/madsbangh/EasyButtons)
 ### 缓动插件
 >* [LitMotion](https://github.com/AnnulusGames/LitMotion)
 
