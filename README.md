@@ -141,6 +141,9 @@
 >*[快速集成AD](https://github.com/IShix-g/QuickAdMobIntegrator)
 
 ### 其他
-[陀螺仪](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)
-[双网格](https://github.com/skner-dev/DualGrid)
-[机场](https://github.com/hwanz/SSR-V2ray-Trojan/tree/main)
+>*[陀螺仪](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)
+>*[双网格](https://github.com/skner-dev/DualGrid)
+>*[机场推荐](https://github.com/hwanz/SSR-V2ray-Trojan/tree/main)
+>*[AssetStudio_Tuanjie](https://github.com/SiMaLaoShi/AssetStudio_Tuanjie)
+>*[AssetStudio](https://github.com/zhangjiequan/AssetStudio)
+
