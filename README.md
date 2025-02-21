@@ -160,5 +160,4 @@
 >*[](https://github.com/mmp1100000/unoGame)
 >*[](https://github.com/JanisBuerkle/Uno-Game)
 >*[](https://github.com/joseunghui/UNO_game)
->https://github.com/elewis804/EndOfYearProject
->https://github.com/search?q=uno+game+language%3AC%23&type=repositories&l=C%23&p=3
+
