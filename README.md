@@ -150,7 +150,7 @@
 >*[AssetStudio_Tuanjie](https://github.com/SiMaLaoShi/AssetStudio_Tuanjie)
 >*[AssetStudio](https://github.com/zhangjiequan/AssetStudio)
 >*[Unity重定向](https://github.com/AlianBlank/download.unity.com?tab=readme-ov-file)
-
+>*[易交互](https://github.com/HalfADog/EasyInteractive)
 ###单机小游戏
 卡牌
 >*[](https://github.com/chiefpunk/UNOCARDGAME)
