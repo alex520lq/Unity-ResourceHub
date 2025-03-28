@@ -25,6 +25,7 @@
 >* [搜索枚举](https://github.com/roboryantron/UnityEditorJunkie)
 >* [SaintsField](https://github.com/TylerTemp/SaintsField)
 >*[按钮](https://github.com/madsbangh/EasyButtons)
+>*[代码分析Roslyn](https://github.com/merryyellow/code-analysis-3-7-editor-only/tree/master)
 ### 缓动插件
 >* [LitMotion](https://github.com/AnnulusGames/LitMotion)
 
