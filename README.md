@@ -154,6 +154,7 @@
 >*[AssetStudio](https://github.com/zhangjiequan/AssetStudio)
 >*[Unity重定向](https://github.com/AlianBlank/download.unity.com?tab=readme-ov-file)
 >*[易交互](https://github.com/HalfADog/EasyInteractive)
+>*[Bezier](https://github.com/yasirkula/UnityBezierSolution)
 ###单机小游戏
 卡牌
 >*[](https://github.com/chiefpunk/UNOCARDGAME)
