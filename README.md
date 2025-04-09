@@ -29,7 +29,7 @@
 >*[代码分析Roslyn](https://github.com/merryyellow/code-analysis-3-7-editor-only/tree/master)
 ### 缓动插件
 >* [LitMotion](https://github.com/AnnulusGames/LitMotion)
-
+>* [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween)
 ### 万人同屏
 >* [ECSAnimation](https://github.com/MrLiuYX/ECSAnimation)
 
