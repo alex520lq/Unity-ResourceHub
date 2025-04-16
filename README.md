@@ -56,7 +56,7 @@
 
 ### 寻路 避障
 >* [ORCA/RVO2](https://github.com/Nebukam/com.nebukam.orca)
-
+>*[DotRecast](https://github.com/ikpil/DotRecast)
 ### 依赖注入
 >* [VContainer](https://github.com/hadashiA/VContainer)
 >* [Zenject](https://github.com/modesttree/Zenject)
