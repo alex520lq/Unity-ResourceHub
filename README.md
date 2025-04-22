@@ -2,8 +2,8 @@
 收集并整理平时见到的资源 避免回头再找的时候会遗忘
 
 ### 开源素材
->*[声音](https://github.com/DevsDaddy/Unity-UI-Audio-Collection)
->
+>* [声音] (https://github.com/DevsDaddy/Unity-UI-Audio-Collection)
+>* [声音效果] (https://github.com/keijiro/Lasp)
 ### 别人收集的集合
 >* [awesome-unity-games] (https://github.com/akinmustafa/awesome-unity-games)
 >* [awesome-unity] (https://github.com/RyanNielson/awesome-unity)  
@@ -33,6 +33,7 @@
 >* [texture-apply-async](https://github.com/gilzoide/unity-texture-apply-async)
 >* [下拉框](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
 >* [lineburst] (https://github.com/bassmit/lineburst)
+>* [](
 ### 缓动插件
 >* [LitMotion] (https://github.com/AnnulusGames/LitMotion)
 >* [PrimeTween] (https://github.com/KyryloKuzyk/PrimeTween)
@@ -68,7 +69,7 @@
 >* [碰撞体优化](https://github.com/aniketrajnish/Unity-Collider-Optimizer)
 >* [reactphysics3d](https://www.reactphysics3d.com/documentation/)
 >* [Box2D](https://github.com/erincatto/Box2D)
-
+>* [数学](https://github.com/FreyaHolmer/Mathfs)
 ### 寻路 避障
 >* [ORCA/RVO2] (https://github.com/Nebukam/com.nebukam.orca)
 >* [DotRecast] (https://github.com/ikpil/DotRecast)
