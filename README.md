@@ -159,27 +159,5 @@
 >*[Unity重定向](https://github.com/AlianBlank/download.unity.com?tab=readme-ov-file)
 >*[易交互](https://github.com/HalfADog/EasyInteractive)
 >*[Bezier](https://github.com/yasirkula/UnityBezierSolution)
-###单机小游戏
-卡牌
->*[](https://github.com/chiefpunk/UNOCARDGAME)
->*[](https://github.com/RnMor777/Unity-Uno-Game)
->*[](https://github.com/Yuulis/UNO-Game)
 
-
->*[](https://github.com/JulianG97/UNOOnline)
-
-
->*[](https://github.com/joseunghui/UNO_game)
-足球
->*[](https://github.com/aspiregig/Finger-Soccer-Game)
->*[](https://github.com/PeterPopma/unityfc)
->*[](https://github.com/matinaghaei/2D-Soccer-Game)
->*[](https://github.com/Marwan0/Unity3D-Soccer-Game)
->*[](https://github.com/hyeonQyu/soccar)
->*[](https://github.com/TreyDettmer/SoccerGame)
-合成大西瓜
->*[](https://github.com/IrisLauuu/FruitXreme)
->*[](https://github.com/mynameisstilljordan/berry-blitz)
->*[](https://github.com/HanPhan1509/Game_MergeFruit_Watermelon)
->
 
