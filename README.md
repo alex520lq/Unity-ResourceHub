@@ -44,6 +44,7 @@
 >* [多人游戏资源搜集](https://github.com/0xFA11/MultiplayerNetworkingResources)
 >* [ecs状态自动回滚](https://github.com/chromealex/ecs)
 >* [回滚网络] (https://github.com/genxium/DelayNoMoreUnity)
+>* [测试ParrelSync] (https://github.com/VeriorPies/ParrelSync)
 ### ECS
 >* [Latios] (https://github.com/Dreaming381/Latios-Framework）
 >* [Arch] (https://github.com/genaray/Arch)
@@ -69,8 +70,10 @@
 >* [Box2D](https://github.com/erincatto/Box2D)
 
 ### 寻路 避障
->* [ORCA/RVO2](https://github.com/Nebukam/com.nebukam.orca)
->*[DotRecast](https://github.com/ikpil/DotRecast)
+>* [ORCA/RVO2] (https://github.com/Nebukam/com.nebukam.orca)
+>* [DotRecast] (https://github.com/ikpil/DotRecast)
+>* [RVO2] (https://github.com/snape/RVO2-CS)
+
 ### 依赖注入
 >* [VContainer](https://github.com/hadashiA/VContainer)
 >* [Zenject](https://github.com/modesttree/Zenject)
