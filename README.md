@@ -30,6 +30,7 @@
 >* [九宫格编辑] (https://github.com/utkaka/ScaleNineSlicer)
 >* [热重载] (https://github.com/handzlikchris/FastScriptReload)
 >* [Transform改变追踪](https://github.com/handzlikchris/Unity.TransformSetterInterceptor)
+>* [texture-apply-async](https://github.com/gilzoide/unity-texture-apply-async)
 ### 缓动插件
 >* [LitMotion] (https://github.com/AnnulusGames/LitMotion)
 >* [PrimeTween] (https://github.com/KyryloKuzyk/PrimeTween)
@@ -40,6 +41,7 @@
 >* [NetickForUnity](https://github.com/NetickNetworking/NetickForUnity)
 >* [多人游戏资源搜集](https://github.com/0xFA11/MultiplayerNetworkingResources)
 >* [ecs状态自动回滚](https://github.com/chromealex/ecs)
+>* [回滚网络] (https://github.com/genxium/DelayNoMoreUnity)
 ### ECS
 >* [Latios] (https://github.com/Dreaming381/Latios-Framework）
 >* [Arch] (https://github.com/genaray/Arch)
