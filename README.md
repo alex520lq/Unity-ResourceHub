@@ -27,11 +27,14 @@
 >* [SaintsField](https://github.com/TylerTemp/SaintsField)
 >* [按钮](https://github.com/madsbangh/EasyButtons)
 >* [代码分析Roslyn](https://github.com/merryyellow/code-analysis-3-7-editor-only/tree/master)
+>* [九宫格编辑] (https://github.com/utkaka/ScaleNineSlicer)
 
 ### 缓动插件
 >* [LitMotion] (https://github.com/AnnulusGames/LitMotion)
 >* [PrimeTween] (https://github.com/KyryloKuzyk/PrimeTween)
 >* [动画序列器] (https://github.com/brunomikoski/Animation-Sequencer)
+>* [TweenPlayables] (https://github.com/annulusgames/TweenPlayables)
+
 ### 万人同屏
 >* [ECSAnimation](https://github.com/MrLiuYX/ECSAnimation)
 
