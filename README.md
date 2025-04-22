@@ -28,7 +28,8 @@
 >* [按钮](https://github.com/madsbangh/EasyButtons)
 >* [代码分析Roslyn](https://github.com/merryyellow/code-analysis-3-7-editor-only/tree/master)
 >* [九宫格编辑] (https://github.com/utkaka/ScaleNineSlicer)
-
+>* [热重载] (https://github.com/handzlikchris/FastScriptReload)
+>* [Transform改变追踪](https://github.com/handzlikchris/Unity.TransformSetterInterceptor)
 ### 缓动插件
 >* [LitMotion] (https://github.com/AnnulusGames/LitMotion)
 >* [PrimeTween] (https://github.com/KyryloKuzyk/PrimeTween)
