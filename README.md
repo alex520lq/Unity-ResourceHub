@@ -139,6 +139,10 @@
 - [EnhancedOnScreenStick](https://github.com/AnnulusGames/EnhancedOnScreenStick) - 增强型虚拟摇杆
 - [UITableViewForUnity](https://github.com/zhaozilong1988/UITableViewForUnity) - 高性能表格视图
 
+## GPU
+
+- [GPUNearestNeighbor](https://github.com/kodai100/Unity_GPUNearestNeighbor) -GPU 空间查询
+
 ## 图形与着色器
 
 - [RealToon Pro](https://assetstore.unity.com/packages/vfx/shaders/realtoon-pro-anime-toon-shader-65518) - 高质量卡通渲染
