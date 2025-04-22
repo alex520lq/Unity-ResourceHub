@@ -31,6 +31,8 @@
 >* [热重载] (https://github.com/handzlikchris/FastScriptReload)
 >* [Transform改变追踪](https://github.com/handzlikchris/Unity.TransformSetterInterceptor)
 >* [texture-apply-async](https://github.com/gilzoide/unity-texture-apply-async)
+>* [下拉框](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
+>* [lineburst] (https://github.com/bassmit/lineburst)
 ### 缓动插件
 >* [LitMotion] (https://github.com/AnnulusGames/LitMotion)
 >* [PrimeTween] (https://github.com/KyryloKuzyk/PrimeTween)
@@ -46,6 +48,8 @@
 >* [Latios] (https://github.com/Dreaming381/Latios-Framework）
 >* [Arch] (https://github.com/genaray/Arch)
 >* [ECSAnimation](https://github.com/MrLiuYX/ECSAnimation)
+>* [Dots Sprites] (https://github.com/Antoshidza/NSprites)
+>* [.NetECS](https://github.com/scellecs/morpeh)
 ### 框架
 >*[MyFramework](https://github.com/ZHOURUIH/MyFramework)
 
@@ -102,8 +106,6 @@
 
 ## 战争迷雾
 >* [Fog of War](https://assetstore.unity.com/packages/tools/particles-effects/fog-of-war-51344)
-## 简易按钮
-
  
 ### 节点编辑器
 >* [NodeGraphProcessor](https://github.com/alelievr/NodeGraphProcessor)
