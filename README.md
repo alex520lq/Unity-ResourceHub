@@ -33,7 +33,7 @@
 >* [texture-apply-async](https://github.com/gilzoide/unity-texture-apply-async)
 >* [下拉框](https://github.com/AlexeyTaranov/SerializeReferenceDropdown)
 >* [lineburst] (https://github.com/bassmit/lineburst)
->* [](
+>* [icons] (https://github.com/halak/unity-editor-icons)
 ### 缓动插件
 >* [LitMotion] (https://github.com/AnnulusGames/LitMotion)
 >* [PrimeTween] (https://github.com/KyryloKuzyk/PrimeTween)
