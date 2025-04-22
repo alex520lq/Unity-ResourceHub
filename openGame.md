@@ -13,6 +13,6 @@
 >* [Soccer](https://github.com/hyeonQyu/soccar)
 >* [Soccer](https://github.com/TreyDettmer/SoccerGame)
 #### 合成大西瓜
->*[FruitXreme] (https://github.com/IrisLauuu/FruitXreme)
->*[FruitXreme] (https://github.com/mynameisstilljordan/berry-blitz)
->*[FruitXreme] (https://github.com/HanPhan1509/Game_MergeFruit_Watermelon)
+>* [FruitXreme] (https://github.com/IrisLauuu/FruitXreme)
+>* [FruitXreme] (https://github.com/mynameisstilljordan/berry-blitz)
+>* [FruitXreme] (https://github.com/HanPhan1509/Game_MergeFruit_Watermelon)
