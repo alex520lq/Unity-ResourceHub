@@ -125,7 +125,7 @@
 - [Box2D](https://github.com/erincatto/Box2D) - 2D物理引擎
 - [Mathfs](https://github.com/FreyaHolmer/Mathfs) - 数学库
 - [C-Sharp算法](https://github.com/TheAlgorithms/C-Sharp) - C#算法实现
-
+- [C-Sharp高级算法](https://github.com/justcoding121/advanced-algorithms) -C#高级算法实现
 ## 寻路与避障
 
 - [com.nebukam.orca](https://github.com/Nebukam/com.nebukam.orca) - ORCA/RVO2实现
