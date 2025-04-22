@@ -65,12 +65,13 @@
 >* [TouchSocket](https://github.com/RRQM/TouchSocket)
 >* [UDP LiteNetLib](https://github.com/RevenantX/LiteNetLib)
 ### Physics物理
->* [Physics](https://github.com/Habrador/Ten-Minute-Physics-Unity)
->* [几何计算,网格简化](https://github.com/Habrador/Computational-geometry)
->* [碰撞体优化](https://github.com/aniketrajnish/Unity-Collider-Optimizer)
->* [reactphysics3d](https://www.reactphysics3d.com/documentation/)
->* [Box2D](https://github.com/erincatto/Box2D)
->* [数学](https://github.com/FreyaHolmer/Mathfs)
+>* [Physics] (https://github.com/Habrador/Ten-Minute-Physics-Unity)
+>* [几何计算,网格简化] (https://github.com/Habrador/Computational-geometry)
+>* [碰撞体优化] (https://github.com/aniketrajnish/Unity-Collider-Optimizer)
+>* [reactphysics3d] (https://www.reactphysics3d.com/documentation/)
+>* [Box2D] (https://github.com/erincatto/Box2D)
+>* [数学] (https://github.com/FreyaHolmer/Mathfs)
+>* [算法] (https://github.com/TheAlgorithms/C-Sharp)
 ### 寻路 避障
 >* [ORCA/RVO2] (https://github.com/Nebukam/com.nebukam.orca)
 >* [DotRecast] (https://github.com/ikpil/DotRecast)
@@ -150,8 +151,8 @@
 >* [ffmpeg](https://github.com/arthenica/ffmpeg-kit)
 >
 ### 书
->* [编程](https://github.com/mymmsc/books/tree/master)
->*[](https://github.com/zengfeng/books)
+>* [编程] (https://github.com/mymmsc/books/tree/master)
+>* [书] (https://github.com/zengfeng/books)
 ### 广告
 >*[快速集成AD](https://github.com/IShix-g/QuickAdMobIntegrator)
 
