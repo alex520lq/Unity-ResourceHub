@@ -156,13 +156,13 @@
 >*[快速集成AD](https://github.com/IShix-g/QuickAdMobIntegrator)
 
 ### 其他
->*[陀螺仪](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)
->*[双网格](https://github.com/skner-dev/DualGrid)
->*[机场推荐](https://github.com/hwanz/SSR-V2ray-Trojan/tree/main)
->*[AssetStudio_Tuanjie](https://github.com/SiMaLaoShi/AssetStudio_Tuanjie)
->*[AssetStudio](https://github.com/zhangjiequan/AssetStudio)
->*[Unity重定向](https://github.com/AlianBlank/download.unity.com?tab=readme-ov-file)
->*[易交互](https://github.com/HalfADog/EasyInteractive)
->*[Bezier](https://github.com/yasirkula/UnityBezierSolution)
-
+>* [陀螺仪] (https://github.com/IvanMurzak/Unity-Gyroscope-Parallax)
+>* [双网格] (https://github.com/skner-dev/DualGrid)
+>* [机场推荐] (https://github.com/hwanz/SSR-V2ray-Trojan/tree/main)
+>* [AssetStudio_Tuanjie] (https://github.com/SiMaLaoShi/AssetStudio_Tuanjie)
+>* [AssetStudio] (https://github.com/zhangjiequan/AssetStudio)
+>* [Unity重定向] (https://github.com/AlianBlank/download.unity.com?tab=readme-ov-file)
+>* [易交互] (https://github.com/HalfADog/EasyInteractive)
+>* [Bezier] (https://github.com/yasirkula/UnityBezierSolution)
+>* [TMP中文](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set)
 
