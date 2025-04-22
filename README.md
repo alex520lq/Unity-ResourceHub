@@ -33,7 +33,7 @@
 
 - [Unity-UI-Audio-Collection](https://github.com/DevsDaddy/Unity-UI-Audio-Collection) - UI音效集合
 - [Lasp](https://github.com/keijiro/Lasp) - 音频可视化与声音效果
-
+- [cscore](https://github.com/filoe/cscore) - 高级音频库
 ## 优质集合
 
 - [awesome-unity-games](https://github.com/akinmustafa/awesome-unity-games) - Unity游戏集合
