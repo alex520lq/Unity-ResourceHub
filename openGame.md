@@ -19,3 +19,5 @@
 
 #### 其他
 >*[城市建造] (https://github.com/EsbenNyboe/CityBuilderGame)
+>*[单词游戏] (https://github.com/madsbangh/ufo-word-game)
+>*[弓箭游戏] (https://github.com/madsbangh/archery-game)
