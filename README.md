@@ -95,7 +95,8 @@
 
 ## 战争迷雾
 >* [Fog of War](https://assetstore.unity.com/packages/tools/particles-effects/fog-of-war-51344)
-
+## 简易按钮
+>* [EasyButtons](https://github.com/madsbangh/EasyButtons)
 ## 游戏源码
 >* [Contra-Unity](https://github.com/dasishiqigaocaisheng/Contra-Unity) 魂得罗复刻
 >* [3DMoonRunner](https://github.com/XINCGer/3DMoonRunner) 3d酷跑
