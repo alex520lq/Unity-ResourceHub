@@ -49,9 +49,10 @@
 ### ECS
 >* [Latios] (https://github.com/Dreaming381/Latios-Framework）
 >* [Arch] (https://github.com/genaray/Arch)
->* [ECSAnimation](https://github.com/MrLiuYX/ECSAnimation)
+>* [ECSAnimation] (https://github.com/MrLiuYX/ECSAnimation)
 >* [Dots Sprites] (https://github.com/Antoshidza/NSprites)
->* [.NetECS](https://github.com/scellecs/morpeh)
+>* [.NetECS] (https://github.com/scellecs/morpeh)
+>* [Entitas] (https://github.com/sschmid/Entitas)
 ### 框架
 >*[MyFramework](https://github.com/ZHOURUIH/MyFramework)
 
