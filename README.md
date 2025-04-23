@@ -107,7 +107,7 @@
 - [TouchSocket](https://github.com/RRQM/TouchSocket) - 跨平台网络通信库
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - 轻量级UDP网络库
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) - 超快速、低延迟异步套接字服务器
-- 
+- [webSocket](https://github.com/endel/NativeWebSocket) -  Unity 的 WebSocket 客户端
 ## ECS架构
 
 - [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) - DOTS扩展框架
