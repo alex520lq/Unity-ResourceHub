@@ -108,6 +108,7 @@
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - 轻量级UDP网络库
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer) - 超快速、低延迟异步套接字服务器
 - [webSocket](https://github.com/endel/NativeWebSocket) -  Unity 的 WebSocket 客户端
+- [websocket-sharp](https://github.com/sta/websocket-sharp) - WebSocket协议客户端和服务端的C#实现(安全链接身份认证cookies)
 ## ECS架构
 
 - [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) - DOTS扩展框架
