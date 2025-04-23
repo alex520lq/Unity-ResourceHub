@@ -207,6 +207,7 @@
 ## 工具与其他
 
 - [Unity-Gyroscope-Parallax](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax) - 陀螺仪视差效果
+- [陀螺仪视差](https://github.com/IvanMurzak/Unity-Gyroscope-Parallax) - 陀螺仪视差效果
 - [DualGrid](https://github.com/skner-dev/DualGrid) - 双网格系统
 - [AssetStudio_Tuanjie](https://github.com/SiMaLaoShi/AssetStudio_Tuanjie) - 资源提取工具
 - [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Unity资源查看工具
