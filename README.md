@@ -135,7 +135,9 @@
 - [com.nebukam.orca](https://github.com/Nebukam/com.nebukam.orca) - ORCA/RVO2实现
 - [DotRecast](https://github.com/ikpil/DotRecast) - NavMesh导航库
 - [RVO2-CS](https://github.com/snape/RVO2-CS) - RVO2碰撞避障C#实现
-
+- [RVO2Unity](https://github.com/aillieo/RVO2-Unity) -RVO2
+- [A*](https://github.com/sturdyspoon/unity-pathfinding) -Tilemaps
+-  
 ## UI扩展
 
 - [UnityProgressBar](https://github.com/AnnulusGames/UnityProgressBar) - 进度条组件
