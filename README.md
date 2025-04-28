@@ -208,6 +208,7 @@
 - [Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern) - Unity设计模式
 - [编程书籍](https://github.com/mymmsc/books/tree/master) - 编程相关书籍集合
 - [开发书籍](https://github.com/zengfeng/books) - 游戏开发书籍
+- [编程书籍](https://github.com/justjavac/free-programming-books-zh_CN) -游戏开发书籍合集
 ## 主题
 
 - [UI主题](https://github.com/IvanMurzak/Unity-Theme) - 更改游戏界面主题
