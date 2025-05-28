@@ -41,6 +41,6 @@
 - [ ] [链接路](https://github.com/Ordyns/MakeNewWay)
 - [ ] [pingpong](https://github.com/Ordyns/PingPong)
 - [ ] [blockPuzzle](https://github.com/Szaroslav/block-puzzle)
-- [x] [connect](https://github.com/zerefgd/Connect) 
+- [x] [connect+编辑器](https://github.com/zerefgd/Connect) 
 - [ ] [stackball](https://github.com/KaanEkimoz/Stackball-Runner)
 - [ ] [](https://nodulus.en.aptoide.com/app)
