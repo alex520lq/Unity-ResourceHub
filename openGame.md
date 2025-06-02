@@ -18,7 +18,7 @@
 - [ ] [FruitXreme](https://github.com/mynameisstilljordan/berry-blitz)
 - [ ] [FruitXreme](https://github.com/HanPhan1509/Game_MergeFruit_Watermelon)
 
-#### 其他
+#### 小游戏
 - [ ] [城市建造](https://github.com/EsbenNyboe/CityBuilderGame)
 - [ ] [单词游戏](https://github.com/madsbangh/ufo-word-game)
 - [ ] [弓箭游戏](https://github.com/madsbangh/archery-game)
@@ -61,3 +61,7 @@
 - [ ] [cardSort](https://github.com/OnurEldrinx/CardShuffleSort)
 - [ ] [bloxyz](https://github.com/dbpienkowska/bloxyz)
 - [ ] [stack](https://github.com/sangh518/unity_clone_ketchapp_stack)
+- [ ] [水排序](https://github.com/MateiIonutEduard/WaterPuzzle)
+
+### 开源
+- [][吸血鬼幸存](https://github.com/matthiasbroske/VampireSurvivorsClone)
