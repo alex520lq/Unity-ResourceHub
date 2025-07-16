@@ -79,7 +79,7 @@
 - [Zenject](https://github.com/modesttree/Zenject) - 依赖注入框架
 - [Binject](https://github.com/somedeveloper00/Binject) - 轻量级依赖注入
 - [Reflex](https://github.com/gustavopsantos/Reflex) - 依赖反射框架
-
+- [initArgs](https://assetstore.unity.com/packages/tools/utilities/init-args-200530) 简单依赖注入
 ## 动画与缓动
 
 - [LitMotion](https://github.com/AnnulusGames/LitMotion) - 高性能缓动库
