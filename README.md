@@ -68,6 +68,7 @@
 - [unity-editor-icons](https://github.com/halak/unity-editor-icons) - Unity编辑器图标集合
 - [FolderTag](https://github.com/liyingsong99/FolderTag) - 文件夹折叠管理
 - [Inspector](https://github.com/codewriter-packages/Tri-Inspector) - 编辑器显示扩展
+- [Editor](https://github.com/v0lt13/EditorAttributes) -Odin类似扩展
 ## 游戏框架
 
 - [MyFramework](https://github.com/ZHOURUIH/MyFramework) - 完整游戏框架
