@@ -119,7 +119,7 @@
 - [NSprites](https://github.com/Antoshidza/NSprites) - DOTS精灵渲染
 - [Morpeh](https://github.com/scellecs/morpeh) - 纯.NET ECS框架
 - [Entitas](https://github.com/sschmid/Entitas) - 经典ECS框架
-
+- [Friflo](https://github.com/friflo/Friflo.Engine.ECS)-高效ECS框架
 ## 物理与数学
 
 - [Ten-Minute-Physics-Unity](https://github.com/Habrador/Ten-Minute-Physics-Unity) - 十分钟物理教程
