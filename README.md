@@ -115,7 +115,7 @@
 - [webSocket](https://github.com/endel/NativeWebSocket) -  Unity 的 WebSocket 客户端
 - [websocket-sharp](https://github.com/sta/websocket-sharp) - WebSocket协议客户端和服务端的C#实现(安全链接身份认证cookies)
 ## ECS架构
-
+- [ECS分享](https://github.com/SanderMertens/ecs-faq)
 - [Latios-Framework](https://github.com/Dreaming381/Latios-Framework) - DOTS扩展框架
 - [Arch](https://github.com/genaray/Arch) - 轻量级ECS框架
 - [ECSAnimation](https://github.com/MrLiuYX/ECSAnimation) - ECS动画系统
