@@ -76,6 +76,14 @@
 ## 网络与服务器
 
 - [KcpTransport](https://github.com/alex520lq/KcpTransport) - 纯 C# RUDP 高性能实时网络（KCP 保留版）
+- [kcp-csharp](https://github.com/alex520lq/kcp-csharp) - KCP 快速可靠 ARQ 协议（C#）
+- [KCP](https://github.com/alex520lq/KCP) - KCP C# 版（线程安全、运行期零分配）
+- [KCP-Socket](https://github.com/alex520lq/KCP-Socket) - KCP+UDPSocket 封装（Unity）
+- [Telepathy](https://github.com/alex520lq/Telepathy) - 轻量简单 C# TCP 网络库（MMO 级、无魔法）
+- [LiteNetLib](https://github.com/alex520lq/LiteNetLib) - 轻量可靠 UDP 网络库（Mono/.NET）
+- [UNetwork](https://github.com/alex520lq/UNetwork) - Unity P2P Server+Client
+- [ET](https://github.com/alex520lq/ET) - Unity3D 客户端 + C# 服务器框架
+- [UnityMMO](https://github.com/alex520lq/UnityMMO) - MMO demo（ECS 玩法 + xlua UI + skynet 服务器）
 - [UnityWebSocket](https://github.com/alex520lq/UnityWebSocket) - 跨平台 Unity WebSocket 插件
 - [Mirage](https://github.com/alex520lq/Mirage) - Unity 高性能网络库
 - [Miku](https://github.com/alex520lq/Miku) - C# 高性能 TCP 服务器/客户端
@@ -87,7 +95,15 @@
 
 - [TrueSyncExample](https://github.com/alex520lq/TrueSyncExample) - 帧同步插件（确定性物理 + 定点函数库 + 碰撞）
 - [LockstepBase](https://github.com/alex520lq/LockstepBase) - 帧同步实现
+- [LockstepFramework](https://github.com/alex520lq/LockstepFramework) - 帧同步框架（RTS / TD / MOBA）
+- [LockstepECS](https://github.com/alex520lq/LockstepECS) - 快速帧同步 ECS 框架
+- [LockstepEngine](https://github.com/alex520lq/LockstepEngine) - 帧同步解决方案（确定性数学 / 碰撞 / 导航 / 行为树）
+- [LockStepFrame](https://github.com/alex520lq/LockStepFrame) - 帧同步框架
+- [Lockstep.BehaviourTree](https://github.com/alex520lq/Lockstep.BehaviourTree) - 内存紧凑行为树（unsafe 指针 + struct）
 - [unity-deterministic-physics2](https://github.com/alex520lq/unity-deterministic-physics2) - GGPO 确定性物理（保留版）
+- [unity-deterministic-physics](https://github.com/alex520lq/unity-deterministic-physics) - Unity DOTS 确定性物理
+- [deterministic_physics](https://github.com/alex520lq/deterministic_physics) - 3D 帧同步确定性物理引擎
+- [bepuphysics2](https://github.com/alex520lq/bepuphysics2) - 纯 C# 实时物理模拟库（确定性可用）
 - [unity-prediction-rollback](https://github.com/alex520lq/unity-prediction-rollback) - 确定性预测回滚网络库
 - [ecs](https://github.com/chromealex/ecs) - ECS 全状态自动回滚
 - [DelayNoMoreUnity](https://github.com/genxium/DelayNoMoreUnity) - 带回滚的多人网络游戏 demo
@@ -98,6 +114,7 @@
 - [Game-Physics-Cookbook](https://github.com/alex520lq/Game-Physics-Cookbook) - 游戏物理算法实现（书）
 - [learn-physics](https://github.com/alex520lq/learn-physics) - 物理引擎学习（中文，自实现简易引擎）
 - [UnityMobaDemo-1](https://github.com/alex520lq/UnityMobaDemo-1) - 仿王者荣耀帧同步 demo（KCP+定点数）
+- [MoBaDemo](https://github.com/alex520lq/MoBaDemo) - 类 Moba 游戏 Demo（学习）
 - [DotRecast](https://github.com/ikpil/DotRecast) - NavMesh 导航库
 - [KNN](https://github.com/alex520lq/KNN) - DOTS 快速最近邻查找
 - [Simple-optimized-A-Pathfinder](https://github.com/alex520lq/Simple-optimized-A-Pathfinder) - 简单优化网格寻路
