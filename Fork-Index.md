@@ -86,6 +86,7 @@
 - [UnityMMO](https://github.com/alex520lq/UnityMMO) - MMO demo（ECS 玩法 + xlua UI + skynet 服务器）
 - [UnityWebSocket](https://github.com/alex520lq/UnityWebSocket) - 跨平台 Unity WebSocket 插件
 - [Mirage](https://github.com/alex520lq/Mirage) - Unity 高性能网络库
+- [Riptide](https://github.com/alex520lq/Riptide) - 轻量 C# 多人游戏网络解决方案
 - [Miku](https://github.com/alex520lq/Miku) - C# 高性能 TCP 服务器/客户端
 - [GenHTTP](https://github.com/alex520lq/GenHTTP) - 纯 C# 轻量 Web 服务器
 - [Fantasy](https://github.com/qq362946/Fantasy) - C# 游戏服务器框架
@@ -145,6 +146,7 @@
 - [unity-AI-Chat-Toolkit](https://github.com/alex520lq/unity-AI-Chat-Toolkit) - LLM 聊天 + 语音服务（多平台）
 - [Stable-Diffusion-Unity-Integration](https://github.com/alex520lq/Stable-Diffusion-Unity-Integration) - Stable Diffusion 集成
 - [piper.unity](https://github.com/alex520lq/piper.unity) - 本地 TTS 语音合成
+- [claude-code3](https://github.com/alex520lq/claude-code3) - Claude Code 可运行版（TypeScript 类型全修复，企业级可靠性，可直接 bun i / bun run dev）
 
 ## 资料 / 其他
 
