@@ -140,3 +140,4 @@
 - [UnityWebGL-LoadingTest](https://github.com/alex520lq/UnityWebGL-LoadingTest) - WebGL 平台构建对比
 - [CrazyCar](https://github.com/alex520lq/CrazyCar) - 联机赛车完整方案（QFramework + Addressable + HybridCLR + KCP/WebSocket）
 - [Solvable-Minesweeper](https://github.com/alex520lq/Solvable-Minesweeper) - 元扫雷 v3.0（8 种模式）
+- [stb](https://github.com/alex520lq/stb) - C 语言单头文件库合集（stb_image 图像加载 / stb_truetype 字体 / stb_vorbis 音频等）
