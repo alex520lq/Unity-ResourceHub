@@ -2,11 +2,15 @@
 
 收集可参考的开源游戏项目，按类型分类。`[x]` 表示已研究/已参考，`[ ]` 表示待研究。
 
+> 📊 **8月 Google Play 休闲游戏榜单热门玩法对应复刻**：三消、合成经营、数独、大富翁、拼图、台球、放置RPG、派对小游戏等分类已补充。
+
 ## 📑 目录
 
 - [卡牌类](#卡牌类)
 - [体育类](#体育类)
+- [三消类 (Match-3)](#三消类-match-3)
 - [合成/消除类](#合成消除类)
+- [合成经营类 (Merge+Story)](#合成经营类-merge-story)
 - [数字合成类](#数字合成类)
 - [街机/休闲类](#街机休闲类)
 - [Flappy Bird 类](#flappy-bird-类)
@@ -16,10 +20,15 @@
 - [塔防类](#塔防类)
 - [射击类](#射击类)
 - [跑酷类](#跑酷类)
+- [数独类](#数独类)
+- [拼图类](#拼图类)
 - [益智/解谜类](#益智解谜类)
 - [节奏类](#节奏类)
 - [模拟/建造类](#模拟建造类)
+- [大富翁/桌游类](#大富翁桌游类)
 - [放置/点击类](#放置点击类)
+- [放置RPG类](#放置rpg类)
+- [派对小游戏类](#派对小游戏类)
 - [MOBA/多人对战类](#moba多人对战类)
 - [Roguelike/生存类](#roguelike生存类)
 - [其他](#其他)
@@ -50,6 +59,25 @@
 - [ ] [SoccerGame](https://github.com/TreyDettmer/SoccerGame)
 - [ ] [Unity-Shotty-Soccer](https://github.com/WildsG/Unity-Shotty-Soccer)
 
+### 台球（8 Ball Pool）
+
+- [ ] [BilliardVR](https://github.com/chadyo/BilliardVR) - VR 台球（4⭐）
+- [ ] [Billiard2D](https://github.com/BogdanRaven/Billiard2D) - 2D 台球，带轨迹计算（2⭐）
+- [ ] [colorBilliards](https://github.com/agniVice/colorBilliards) - 彩色台球安卓版
+- [ ] [carom-billiards-game](https://github.com/Stolzenberg/carom-billiards-game) - 开伦台球
+- [ ] [3D-carom-billiards](https://github.com/BurakErbora/3D-carom-billiards) - 3D 开伦台球原型
+- [ ] [AR-Billiard](https://github.com/CrazyChild18/AR-Billiard) - AR 台球（Vuforia）
+
+---
+
+## 三消类 (Match-3)
+
+> 对应榜单：Candy Crush Saga、Gardenscapes、Homescapes、Project Makeover
+
+- [ ] [Unity-Match3Puzzle-Editor](https://github.com/bienpx224/Unity-Match3Puzzle-Editor) - Candy Crush 风格，带关卡编辑器（2⭐）
+- [ ] [Car-Match3-Example](https://github.com/TolgaGame/Car-Match3-Example) - 汽车主题三消
+- [ ] [Color-Block-Jam-3D](https://github.com/muhammedfurkangok/Color-Block-Jam-3D) - 色块消除 3D
+
 ---
 
 ## 合成/消除类
@@ -65,13 +93,21 @@
 
 ### 消除/匹配
 
-- [ ] [Color-Block-Jam-3D](https://github.com/muhammedfurkangok/Color-Block-Jam-3D)
 - [ ] [Match-Cubes-2048](https://github.com/datasalih/Match-Cubes-2048)
 - [ ] [CardShuffleSort](https://github.com/OnurEldrinx/CardShuffleSort)
 - [ ] [WaterPuzzle](https://github.com/MateiIonutEduard/WaterPuzzle) - 水排序
 - [ ] [Coin-Sort-Clone](https://github.com/aysecra/Coin-Sort-Clone)
-- [ ] [Car-Match3-Example](https://github.com/TolgaGame/Car-Match3-Example)
-- [ ] [Unity-Match3Puzzle-Editor](https://github.com/bienpx224/Unity-Match3Puzzle-Editor) - Candy Crush 风格，带关卡编辑器
+
+---
+
+## 合成经营类 (Merge+Story)
+
+> 对应榜单：Gossip Harbor、Hollywood Merge、X-Clash（合成+剧情+装修）
+
+- [ ] [2024GB](https://github.com/mindongun123/2024GB) - Merge Merchant：合成+经营+建造，店主模拟（8⭐）
+- [ ] [WatermelonGameClone](https://github.com/s4k10503/WatermelonGameClone) - 掉落物+合成玩法（13⭐）
+- [ ] [Merge-Game](https://github.com/NickBres/Merge-Game) - 动物合成益智游戏
+- [ ] [Combine_Kittens](https://github.com/BenZimmermann/Combine_Kittens) - 猫咪合成放置游戏
 
 ---
 
@@ -188,6 +224,8 @@
 
 ## 跑酷类
 
+> 对应榜单：Subway Surfers（8月回升至第3，1500万下载）
+
 - [ ] [3DMoonRunner](https://github.com/XINCGer/3DMoonRunner) - 3D 酷跑
 - [ ] [Endless-Runner](https://github.com/Ig0k/Endless-Runner) - 忍者主题，受 Temple Run/Subway Surfers 启发
 - [ ] [EndlessStrides](https://github.com/menaga23/EndlessStrides) - 跑酷+射击混合，Unity 6 URP
@@ -195,11 +233,35 @@
 
 ---
 
+## 数独类
+
+> 对应榜单：Meowdoku（猫咪主题数独，和榜单同名！）
+
+- [ ] [Meowdoku](https://github.com/kayleenasser/Meowdoku) - 猫咪主题数独（27⭐）
+- [ ] [SudokuChallenge](https://github.com/michelbr84/SudokuChallenge) - 动态生成数独，多难度（8⭐）
+- [ ] [InfiniteSudoku](https://github.com/pcs003/InfiniteSudoku) - 无限数独生成器，撤销/擦除/编辑模式
+- [ ] [SudokuUnityGame](https://github.com/TheSameerAhmed/SudokuUnityGame) - 数独游戏，多难度
+- [ ] [Puzzle-Game-Collection](https://github.com/NatsuYukiHaruhana/Puzzle-Game-Collection) - 5合1含数独
+
+---
+
+## 拼图类
+
+> 对应榜单：Jigsaw Drop
+
+- [ ] [jigsaw-puzzle](https://github.com/shamim-akhtar/jigsaw-puzzle) - 完整拼图游戏，贝塞尔曲线+程序化生成（131⭐）
+- [ ] [jigsaw-puzzle](https://github.com/IceNum/jigsaw-puzzle) - 3D 拼图（19⭐）
+- [ ] [Puzzler-Jigsaw-Game](https://github.com/boyloe/Puzzler-Jigsaw-Game) - 拼图游戏（14⭐）
+- [ ] [Jigsaw-Puzzle-game](https://github.com/Muaz85/Jigsaw-Puzzle-game) - 移动端拼图，支持 iPhoneX
+- [ ] [Unity-jigsaw-puzzle](https://github.com/ghostintheshell0/Unity-jigsaw-puzzle) - 程序化生成拼图块
+- [ ] [xJigsawPuzzle](https://github.com/xuanll/xJigsawPuzzle) - 四格拼图小游戏
+
+---
+
 ## 益智/解谜类
 
 - [ ] [ChessGame](https://github.com/SimpleDevelopmentGit/ChessGame) - 国际象棋
 - [ ] [UnityHexicGame](https://github.com/yasirkula/UnityHexicGame)
-- [ ] [Puzzle-Game-Collection](https://github.com/NatsuYukiHaruhana/Puzzle-Game-Collection) - 5合1：扫雷/2048/战舰/纸牌/数独
 
 ---
 
@@ -211,18 +273,53 @@
 
 ## 模拟/建造类
 
+> 对应榜单：Township、Hay Day
+
 - [ ] [CityBuilderGame](https://github.com/EsbenNyboe/CityBuilderGame) - 城市建造
+- [ ] [2024GB](https://github.com/mindongun123/2024GB) - 合成+经营+建造（店主模拟）
+
+---
+
+## 大富翁/桌游类
+
+> 对应榜单：MONOPOLY GO!、Ludo King
+
+- [ ] [Monopoly](https://github.com/NgeNXQ/Monopoly) - 多人联机大富翁，Netcode for GameObjects + Unity Gaming Services（10⭐）
+- [ ] [monopoly](https://github.com/NoSurprises/monopoly) - 大富翁 Unity 版（7⭐）
+- [ ] [empire-rush-mobile-game](https://github.com/LaloLalo1999/empire-rush-mobile-game) - MONOPOLY GO + Adventure Capitalist + Clash of Clans 混合，完整商业化框架（7⭐）
+- [ ] [Monopoly-Clone](https://github.com/charlie2099/Monopoly-Clone) - 大富翁克隆（4⭐）
+- [ ] [property-tycoon-unity](https://github.com/omimir/property-tycoon-unity) - 大富翁风格桌游，6人团队敏捷开发
+- [ ] [UniversityMonopoly](https://github.com/MrEluzium/UniversityMonopoly) - 桌游原型
 
 ---
 
 ## 放置/点击类
 
-### Cookie Clicker
+> 对应榜单：Cookie Clicker 类
 
 - [ ] [clicker](https://github.com/viral32111/clicker) - 移动端放置点击游戏
 - [ ] [Idle-Game](https://github.com/GDPankaj/Idle-Game) - Cookie Clicker 克隆
 - [ ] [IdleGame](https://github.com/mustafatur46/IdleGame) - 城市建设放置游戏，UI Toolkit
 - [ ] [Cookies_Empire](https://github.com/AnamikaBarua-source/Cookies_Empire) - 简单点击游戏
+
+---
+
+## 放置RPG类
+
+> 对应榜单：Buff Knight Advanced: Idle RPG
+
+- [ ] [Idle-RPG](https://github.com/jboensch/Idle-RPG) - 放置RPG教程版（3⭐）
+- [ ] [empire-rush-mobile-game](https://github.com/LaloLalo1999/empire-rush-mobile-game) - 混合放置/桌游/建造，含完整 monetization 框架
+
+---
+
+## 派对小游戏类
+
+> 对应榜单：Stumble Guys（糖豆人风格派对淘汰赛）
+
+- [ ] [GoblinParty](https://github.com/MonteFloyd/GoblinParty) - 多人小游戏合集
+- [ ] [Alko-Olimpiada-Game](https://github.com/AradinX/Alko-Olimpiada-Game) - 派对多人FPS，醉酒奥运会主题，Unity 6
+- [ ] [anquilosaurios-game-webgl](https://github.com/LePeanutButter/anquilosaurios-game-webgl) - Unity WebGL 多人派对小游戏，Relay  matchmaking
 
 ---
 
