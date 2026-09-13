@@ -30,6 +30,7 @@
 - [放置/点击类](#放置点击类)
 - [放置RPG类](#放置rpg类)
 - [派对小游戏类](#派对小游戏类)
+- [小游戏合集类 (Mini Games Collection)](#小游戏合集类-mini-games-collection)
 - [MOBA/多人对战类](#moba多人对战类)
 - [Roguelike/生存类](#roguelike生存类)
 - [其他](#其他)
@@ -382,6 +383,37 @@
 - [ ] [GoblinParty](https://github.com/MonteFloyd/GoblinParty) - 多人小游戏合集
 - [ ] [Alko-Olimpiada-Game](https://github.com/AradinX/Alko-Olimpiada-Game) - 派对多人FPS，醉酒奥运会主题，Unity 6
 - [ ] [anquilosaurios-game-webgl](https://github.com/LePeanutButter/anquilosaurios-game-webgl) - Unity WebGL 多人派对小游戏，Relay  matchmaking
+
+---
+
+## 小游戏合集类 (Mini Games Collection)
+
+> 对应榜单：AHA Games: 10K+ Offline Games、Offline Games: No WiFi、1000 Offline Games in 1 等。
+> 这类应用的核心是**一个 App 集成数十到数千个小游戏**，全部离线可玩。商业版通常通过 WebView 加载大量 HTML5 小游戏来达到万级数量；开源项目多为 10-30 个 Unity 原生小游戏的合集，适合学习架构和快速搭建。
+
+### Unity 原生小游戏合集
+
+- [ ] [unity-minigame-collection](https://github.com/maybebool/unity-minigame-collection) - **13个经典小游戏合集**：小行星、打砖块、泡泡龙、涂鸦跳跃、Flappy Bird、水果忍者、扫雷、Pong、贪吃蛇、太空侵略者、太空大战、俄罗斯方块、井字棋（15⭐）
+- [ ] [GamesGoneWild](https://github.com/keiththomas1/GamesGoneWild) - Android/iOS 小游戏合集，Unity C#（7⭐）
+- [ ] [CasualGamesCollection](https://github.com/SinlessDevil/CasualGamesCollection) - 3D 超休闲游戏合集：Chain Cube 2048、Roller Spat、Color Hole 3D（37⭐）
+- [ ] [UnityMiniGames](https://github.com/ttocs778/UnityMiniGames) - Unity 小游戏和原型合集（3⭐）
+- [ ] [Relaxing-Games-CASE](https://github.com/TolgaGame/Relaxing-Games-CASE) - 休闲小游戏合集（3⭐）
+- [ ] [MicroGames](https://github.com/Maxroo/MicroGames) - Android 小游戏合集（2⭐）
+- [ ] [HyperCasualGames](https://github.com/Flonq/HyperCasualGames) - 超休闲游戏项目合集（2⭐）
+- [ ] [Unity3D-MiniGames](https://github.com/ManuMoral/Unity3D-MiniGames) - Unity 3D 简单游戏练习集（2⭐）
+- [ ] [alphaminigames](https://github.com/aesthezel/alphaminigames) - 机制练习向迷你游戏（4⭐）
+
+### 应用框架向（多小游戏 App 架构）
+
+- [ ] [MiniGameApp](https://github.com/chris8332558/MiniGameApp) - 使用 **Unity UI Toolkit** 构建的多小游戏应用，适合学习 App 式游戏框架（2⭐）
+- [ ] [SuperGameApp](https://github.com/shahabRDZ/SuperGameApp) - 移动端多小游戏 App，含 Water Sort Puzzle，Unity + Python/Pygame 双端（5⭐）
+- [ ] [World-Adventure-Mobile-Game](https://github.com/KennethMcLachlan/World-Adventure-Mobile-Game) - 纯 UI 构建的儿童应用，含3个小游戏+引导+计分板+完整导航（3⭐）
+
+### 快速搭建工具
+
+- [ ] [UnityPlayground](https://github.com/Unity-Technologies/UnityPlayground) - **Unity 官方** 2D 物理游戏脚本集合，拖拽式快速创建小游戏，适合工作坊和教学（974⭐）
+
+> 💡 **搭建 Offline Games 类应用的思路**：商业版（AHA Games 等）通常用 WebView 加载数千个 HTML5 小游戏来达到万级数量，Unity 原生方案更适合 10-50 个精品小游戏合集。可参考 MiniGameApp 的 UI Toolkit 架构 + unity-minigame-collection 的游戏实现来快速搭建。
 
 ---
 
