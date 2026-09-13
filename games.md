@@ -2,7 +2,7 @@
 
 收集可参考的开源游戏项目，按类型分类。`[x]` 表示已研究/已参考，`[ ]` 表示待研究。
 
-> 📊 **8月 Google Play 休闲游戏榜单热门玩法对应复刻**：三消、合成经营、数独、大富翁、拼图、台球、放置RPG、派对小游戏等分类已补充。
+> 📊 **8月 Google Play 休闲游戏榜单热门玩法对应复刻**：三消、合成经营、数独、大富翁、拼图、台球、放置RPG、派对小游戏、排序益智等分类已补充。
 
 ## 📑 目录
 
@@ -22,6 +22,7 @@
 - [跑酷类](#跑酷类)
 - [数独类](#数独类)
 - [拼图类](#拼图类)
+- [排序益智类 (Sort Puzzle)](#排序益智类-sort-puzzle)
 - [益智/解谜类](#益智解谜类)
 - [节奏类](#节奏类)
 - [模拟/建造类](#模拟建造类)
@@ -95,8 +96,6 @@
 
 - [ ] [Match-Cubes-2048](https://github.com/datasalih/Match-Cubes-2048)
 - [ ] [CardShuffleSort](https://github.com/OnurEldrinx/CardShuffleSort)
-- [ ] [WaterPuzzle](https://github.com/MateiIonutEduard/WaterPuzzle) - 水排序
-- [ ] [Coin-Sort-Clone](https://github.com/aysecra/Coin-Sort-Clone)
 
 ---
 
@@ -255,6 +254,69 @@
 - [ ] [Jigsaw-Puzzle-game](https://github.com/Muaz85/Jigsaw-Puzzle-game) - 移动端拼图，支持 iPhoneX
 - [ ] [Unity-jigsaw-puzzle](https://github.com/ghostintheshell0/Unity-jigsaw-puzzle) - 程序化生成拼图块
 - [ ] [xJigsawPuzzle](https://github.com/xuanll/xJigsawPuzzle) - 四格拼图小游戏
+
+---
+
+## 排序益智类 (Sort Puzzle)
+
+> 对应榜单：Coin Sort、Ball Sort、Water Sort 等排序类休闲游戏。核心玩法：将不同颜色/类型的物体分类到对应容器中。
+
+### 硬币排序（Coin Sort）
+
+- [ ] [Coin-Sort-Clone](https://github.com/aysecra/Coin-Sort-Clone) - Coin Sort 克隆
+
+### 球排序（Ball Sort）
+
+- [ ] [Unity-BallSortPuzzle](https://github.com/alpayatess/Unity-BallSortPuzzle) - 球排序入门版（2⭐）
+- [ ] [Ball-Sort-Puzzle-RL](https://github.com/rafaelribeiro1510/Ball-Sort-Puzzle-RL) - 强化学习 AI 求解球排序（2⭐）
+- [ ] [BallSort](https://github.com/omerfozgul/BallSort) - 球排序 Unity 版（1⭐）
+- [ ] [BallSortPuzzleClone](https://github.com/PauloFAragao/BallSortPuzzleClone) - 安卓学习版（1⭐）
+- [ ] [BallSortPuzzle_Unity](https://github.com/CanYalcin/BallSortPuzzle_Unity) - 球排序（1⭐）
+- [ ] [UnityBallSort](https://github.com/meowvietnam/UnityBallSort) - 球排序（1⭐）
+- [ ] [ColourSorting](https://github.com/shraddhachangan21-droid/ColourSorting) - 彩球入管排序，Water Sort 风格
+
+### 水排序（Water Sort）
+
+- [ ] [WaterSortPuzzleClone](https://github.com/PauloFAragao/WaterSortPuzzleClone) - 水排序安卓版（5⭐）
+- [ ] [SuperGameApp](https://github.com/shahabRDZ/SuperGameApp) - 含 Water Sort 的多小游戏合集（5⭐）
+- [ ] [WaterSortPuzzle-Unity](https://github.com/ethanrweber/WaterSortPuzzle-Unity) - 水排序（4⭐）
+- [ ] [UnityWaterSort](https://github.com/Alitcher/UnityWaterSort) - 水排序，Shader 版（3⭐）
+- [ ] [color-sort-unity](https://github.com/gurbuzer1/color-sort-unity) - 纯代码版，BFS 提示算法，流体倒出动画，10关程序化生成（1⭐）
+- [ ] [PotionSort](https://github.com/yakupdmrr/PotionSort) - 药水排序，Singleton/Observer/State Machine/Service Locator 设计模式（1⭐）
+- [ ] [Mobile_Sorting_Game](https://github.com/sorana-beliat18/Mobile_Sorting_Game) - 毕设，Water Sort 机制移动端（1⭐）
+- [ ] [WaterSortPuzzle](https://github.com/koramazzz/WaterSortPuzzle) - Unity 6 模块化，进度/存档/动画/EditMode 测试
+- [ ] [ColorPour-MobileGame](https://github.com/ewok0116/ColorPour-MobileGame) - 液体排序，含 GDD/架构/Unity 设置文档
+- [ ] [BartenderSort-Game](https://github.com/simayotlaca/BartenderSort-Game) - 调酒师液体排序，分层倒出+订单匹配，40关
+- [ ] [PotionAcademy](https://github.com/muratcanydin/PotionAcademy) - 药水排序，Unity 6 2D URP 温馨风格
+- [ ] [crystal-sort-game](https://github.com/ignatov04/crystal-sort-game) - 水晶排序，24关 WebGL 版
+- [ ] [WaterPuzzle](https://github.com/MateiIonutEduard/WaterPuzzle) - 水排序
+
+### 颜色/圆环排序
+
+- [ ] [hexa-sort](https://github.com/NarekSag/hexa-sort) - 六边形颜色排序，Clean Architecture + MVVM + VContainer DI + UniRx/UniTask/DOTween（4⭐）
+- [ ] [Swipe-Rings-Puzzle-Color-Match-Fun](https://github.com/Hadi0603/Swipe-Rings-Puzzle-Color-Match-Fun) - 圆环滑动排序消除，超休闲 3D（2⭐）
+- [ ] [ColorSortPuzzle](https://github.com/Vinhnq19/ColorSortPuzzle) - 螺栓圆环排序 3D
+- [ ] [Color-Sort-Game---Unity-](https://github.com/izzaeiman/Color-Sort-Game---Unity-) - 基础颜色排序，3关递进
+
+### 卡片排序
+
+- [ ] [Sorting-Card-3D](https://github.com/tung23062003/Sorting-Card-3D) - 3D 卡片排序堆叠+开箱收集，PC/移动端（3⭐）
+- [ ] [CardShuffleSort](https://github.com/OnurEldrinx/CardShuffleSort) - 卡片洗牌排序
+
+### 管道排序
+
+- [ ] [Pipe-Puzzle-2.0](https://github.com/Hadi0603/Pipe-Puzzle-2.0) - 管道连接排序，保证水流，安卓版（3⭐）
+- [ ] [Pipe-Puzzle](https://github.com/Hadi0603/Pipe-Puzzle) - 管道排序益智，安卓版（2⭐）
+
+### 其他排序变体
+
+- [ ] [Sorting-Battle](https://github.com/chocola-mint/Sorting-Battle) - 强化学习对战排序游戏（5⭐）
+- [ ] [Ball-Tile-Master](https://github.com/Hadi0603/Ball-Tile-Master) - 球排序+色块消除混合，超休闲 3D 多关卡（2⭐）
+- [ ] [decantra](https://github.com/chrisgleissner/decantra) - 瓶子排序安卓版（2⭐）
+- [ ] [HumanSortPuzzle](https://github.com/Healthzone/HumanSortPuzzle) - 颜色倒入烧瓶排序，WebGL（1⭐）
+- [ ] [app-screwproject](https://github.com/MarinaBrau/app-screwproject) - 拧螺丝排序，多关卡移动端（1⭐）
+- [ ] [MyCatBoxGame](https://github.com/AZAAN777/MyCatBoxGame) - 猫盒分类排序 3D 超休闲，动画猫+计时+解锁
+- [ ] [Bubble-Sooooooort-GGJHK2025](https://github.com/NickMC05/Bubble-Sooooooort-GGJHK2025) - 基于冒泡排序算法的策略益智，Global Game Jam 2025
 
 ---
 
